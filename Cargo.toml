@@ -1,0 +1,7 @@
+[package]
+name = "pattern_based_formal_and_abbr_extraction"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.11.1"
